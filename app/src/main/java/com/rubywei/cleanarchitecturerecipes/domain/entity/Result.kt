@@ -1,6 +1,6 @@
 package com.rubywei.cleanarchitecturerecipes.domain.entity
 
-import com.example.foody.models.ExtendedIngredient
+
 
 data class Result(
     val aggregateLikes: Int,

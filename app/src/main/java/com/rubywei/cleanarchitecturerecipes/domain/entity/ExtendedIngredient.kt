@@ -1,6 +1,6 @@
-package com.example.foody.models
 
-import android.os.Parcelable
+package com.rubywei.cleanarchitecturerecipes.domain.entity
+
 
 
 data class ExtendedIngredient(
